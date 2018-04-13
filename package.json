@@ -1,0 +1,27 @@
+{
+  "name": "@neneos/nuxt-hover.css",
+  "version": "0.0.1",
+  "description": "A module to include hover.css in your nuxt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neneos/nuxt-hover.css.git"
+  },
+  "keywords": [
+    "Nuxt",
+    "vue.js",
+    "hover.css"
+  ],
+  "author": "Robin Soenen (Neneos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neneos/nuxt-hover.css/issues"
+  },
+  "homepage": "https://github.com/neneos/nuxt-hover.css#readme",
+  "dependencies": {
+    "hover.css": "^2.3.0"
+  }
+}
